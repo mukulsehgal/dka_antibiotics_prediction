@@ -43,7 +43,9 @@ bash
 Copy
 Edit
 streamlit run app.py
-## 📊 Model Details
+
+
+**## 📊 Model Details**
 Algorithm: Random Forest Classifier
 
 Task: Binary classification
