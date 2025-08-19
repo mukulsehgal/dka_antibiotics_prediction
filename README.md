@@ -43,7 +43,7 @@ bash
 Copy
 Edit
 streamlit run app.py
-📊 Model Details
+## 📊 Model Details
 Algorithm: Random Forest Classifier
 
 Task: Binary classification
@@ -66,7 +66,7 @@ ROC Curve
 
 Feature Importances
 
-📥 Usage
+## 📥 Usage
 Input
 Upload a CSV/Excel file with patient data.
 
@@ -81,7 +81,7 @@ Probability scores
 
 Downloadable results file
 
-🔬 Research Context
+## 🔬 Research Context
 Monitoring antibiotic use in DKA is crucial to:
 
 Reduce unnecessary antibiotic exposure
@@ -92,7 +92,7 @@ Improve patient outcomes
 
 This project demonstrates how machine learning can help guide real-time clinical decisions using retrospective EHR data.
 
-📈 Results
+## 📈 Results
 Metric	Score
 Accuracy	0.83
 Precision	0.77
@@ -101,7 +101,7 @@ ROC-AUC	0.845
 
 
 
-🛠️ Dependencies
+##🛠️ Dependencies
 See requirements.txt:
 
 streamlit
@@ -118,14 +118,14 @@ openpyxl
 
 requests
 
-📜 Citation
+## 📜 Citation
 If you use this work in research or publications, please cite:
 
 Sehgal M, et al.
 Use of Artificial Intelligence to Predict Antibiotic Use in Pediatric DKA Patients
 [In Preparation]
 
-👨‍⚕️ Author
+## 👨‍⚕️ Author
 Mukul Sehgal, MD
 Pediatric Intensivist | AI & Clinical Research Enthusiast
 GitHub
