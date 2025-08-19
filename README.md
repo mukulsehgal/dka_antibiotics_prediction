@@ -44,6 +44,7 @@ Copy
 Edit
 streamlit run app.py
 
+---
 
 **## 📊 Model Details**
 Algorithm: Random Forest Classifier
